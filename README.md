@@ -8,7 +8,7 @@ Hardcoding freedom into the systems of tomorrow.
 
 This repository is legacy research. The canonical integration path is now:
 
-https://github.com/AnarchI-Technologies/Nexusv2
+https://github.com/AnarchI-Technologies-MAIN/Nexusv2
 
 ## Purpose
 
